@@ -1,7 +1,7 @@
 👨🏻‍💻 Augusto Miguel
 Estudante de Análise e Desenvolvimento de Sistemas
 
-Olá! Me chamo Augusto Miguel Da Silva Souza, tenho 21 anos e moro em Araguaína, Tocantins. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFTO e trabalho como Assistente de Compras na Pães da Aliança. Sou um entusiasta da tecnologia, com foco em infraestrutura de TI, hardware e desenvolvimento de software, buscando constantemente evoluir para construir uma carreira sólida na área de tecnologia.
+Olá! Me chamo Augusto Miguel Da Silva Souza, tenho 21 anos e moro em Araguaína, Tocantins. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFTO. Sou estudante da tecnologia, com foco em infraestrutura de TI, hardware e desenvolvimento de software, buscando constantemente evoluir para construir uma carreira sólida na área de tecnologia.
 
 <p align="left">
 <a href="https://github.com/augustomigueldev?tab=repositories&sort=stargazers">
