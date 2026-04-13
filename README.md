@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas
 
-Olá! Me chamo Augusto Miguel Da Silva Souza, tenho 21 anos e moro em Araguaína - TO.
+Olá! Me chamo Augusto Miguel, tenho 21 anos e moro em Araguaína - TO.
 Atualmente, sou estudante de ADS no IFTO.
 
 Tenho interesse em tecnologia, com foco em desenvolvimento de software, principalmente backend, além de conhecimentos em infraestrutura de TI e hardware.
